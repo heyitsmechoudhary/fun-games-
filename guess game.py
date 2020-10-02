@@ -1,4 +1,4 @@
-code_word = "PRIYA"
+code_word = "nypd"
 guess=""
 guess_count = 0
 guess_limit = 3
