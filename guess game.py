@@ -13,4 +13,4 @@ while guess !=code_word and not  out_of_guess :
 if out_of_guess:
     print("out of guess YOU LOSE !")
 else:
-    print("Congorats YOU WIN !")
+    print("congratulations YOU WIN !")
